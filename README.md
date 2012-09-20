@@ -1,4 +1,4 @@
 TestForWeavoraGitboard
 ======================
 
-test repository for gotboard
+test repository for gotboard.
